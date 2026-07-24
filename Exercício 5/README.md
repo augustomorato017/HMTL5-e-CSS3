@@ -1,0 +1,1 @@
+# **Esse exercício já foi desenvolvido anteriormente, sobre emoji.**
