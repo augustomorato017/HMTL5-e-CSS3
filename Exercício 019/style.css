@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body {
+    background-color: rgb(180, 235, 187);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HTML - id e class
+CSS - # e . */
+
+h1#titulo {
+    color: white;
+    background-color: rgb(1, 83, 12);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(2, 51, 9);
+}
+
+h2 {
+    color: rgb(4, 77, 4);
+}
