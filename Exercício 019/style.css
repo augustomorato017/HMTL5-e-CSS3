@@ -20,3 +20,19 @@ h1 {
 h2 {
     color: rgb(4, 77, 4);
 }
+
+.basico {
+    color: rgb(35, 158, 31);
+}
+
+.intermediario {
+    color: rgb(177, 177, 39);
+}
+
+.avançado {
+    color: red;
+}
+
+.subtitulo {
+    background-color: rgb(255, 255, 255);
+}
